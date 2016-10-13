@@ -11,7 +11,7 @@ option = -O3 -m68030 -noixemul
 project:	$(objects)
 	gcc -o $(appname) $(objects) $(option)
 	
-project.o:	project.c project.h support.h
+project.o:	project.c project.h support2.h
 	gcc -c project.c $(option)
 	
 clean:
