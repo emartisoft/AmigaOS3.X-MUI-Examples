@@ -78,7 +78,7 @@ int main(int argc,char *argv[])
 		
 		for (i=0; listviewItems[i] != NULL; i++)
 		{
-			DoMethod (lv, MUIM_List_InsertSingle, listviewItems[i], 0);
+			DoMethod (lv, MUIM_List_InsertSingle, listviewItems[i], MUIV_List_Insert_Bottom);
 		}
 		
     	set(win1,MUIA_Window_Open,TRUE);// open window
@@ -95,7 +95,7 @@ int main(int argc,char *argv[])
 					break;	
 				
 				case PRESSADD:
-					DoMethod (lv, MUIM_List_InsertSingle, "Amiga 4000", 0);
+					DoMethod (lv, MUIM_List_InsertSingle, "Amiga 4000", MUIV_List_Insert_Bottom);
 					break;
 					
 				case PRESSREMOVE:
