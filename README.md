@@ -18,5 +18,5 @@ http://m68k.aminet.net/package/dev/gcc/ADE<br>
 http://aminet.net/dev/gcc/ADE.zip<br>
 <br>
 # How to Setup MUI and GCC on Amiga
-Setup_MUI_and_GCC_on_AmigaOS3.X.pdf (Turkish)
-https://github.com/emartisoft/AmigaOS3.X-MUI-Examples/blob/master/Setup_MUI_and_GCC_on_AmigaOS3.X.pdf
+Setup_MUI_and_GCC_on_AmigaOS3.X.pdf (Turkish)<br>
+https://github.com/emartisoft/AmigaOS3.X-MUI-Examples/blob/master/Setup_MUI_and_GCC_on_AmigaOS3.X.pdf<br>
