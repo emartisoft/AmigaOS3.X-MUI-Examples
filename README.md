@@ -1,8 +1,8 @@
 # AmigaOS3.X-MUI-Examples
 MUI based C Project Examples for Amiga OS 3.X
 
-#Requirements to compile examples
-#================================
+# Requirements to compile examples
+
 AmigaOS3.X veya Classic Workbench 3.X
 http://classicwb.abime.net
 
