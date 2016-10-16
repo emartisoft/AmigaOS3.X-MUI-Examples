@@ -2,7 +2,7 @@
 MUI based C Project Examples for Amiga OS 3.X
 
 # Requirements to compile examples
-AmigaOS3.X veya Classic Workbench 3.X <br>
+AmigaOS3.X or Classic Workbench 3.X <br>
 http://classicwb.abime.net<br>
 <br>
 MagicUserInterface 3.8, user files<br>
