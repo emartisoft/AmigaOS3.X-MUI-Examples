@@ -5,7 +5,7 @@ Object *app, *win1, *bTop, *bBottom;
 
 int main(int argc,char *argv[])
 {
-	APTR	GROUP_ROOT_0, GR_grp_0, obj_aux0, obj_aux2 ;
+	APTR	GROUP_ROOT_0;
 	ULONG signals;
 	BOOL running = TRUE;	
 	
